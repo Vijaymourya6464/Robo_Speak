@@ -48,4 +48,4 @@ M.Tech  AI | Python & AI Enthusiast
 
 1. Clone this repository:
 ```bash
-git clone hhttps://github.com/Vijaymourya6464/Robo_Speak.git
+git clone  https://github.com/Vijaymourya6464/Robo_Speak
