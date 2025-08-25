@@ -17,7 +17,7 @@ Created by **Vijay Mourya** 🚀
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/RoboSpeaker.git
+git clone hhttps://github.com/Vijaymourya6464/Robo_Speak.git
 cd RoboSpeaker
 
 Install required dependencies:
@@ -36,23 +36,18 @@ RoboSpeaker/
 │── requirements.txt     # Dependencies
 │── README.md            # Project documentation
 
-🔧 Dependencies
+## ✨ 🔧 Dependencies
 
-pyttsx3
- – Text-to-Speech library 
+ -  pyttsx3 Text-to-Speech library 
  - pywin32 if using the Windows-only version 
 
-Install with:
-
-pip install pyttsx3
-
-💡 Future Improvements
+## 💡 Future Improvements
 
 - Save speech to an MP3 file
 - You can Add GUI interface with Tkinter or PyQt
 - Add language selection
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Mrs. Vijay Mourya
 M.Tech  AI | Python & AI Enthusiast
