@@ -12,14 +12,6 @@ Created by **Vijay Mourya** 🚀
 - ❌ Exit anytime with `exit`
 
 ---
-
-## 📦 Installation
-
-1. Clone this repository:
-```bash
-git clone hhttps://github.com/Vijaymourya6464/Robo_Speak.git
-cd RoboSpeaker
-
 Install required dependencies:
 
 pip install -r requirements.txt
@@ -36,7 +28,7 @@ RoboSpeaker/
 │── requirements.txt     # Dependencies
 │── README.md            # Project documentation
 
-## ✨ 🔧 Dependencies
+## ✨ 🔧 Install required dependencies:
 
  -  pyttsx3 Text-to-Speech library 
  - pywin32 if using the Windows-only version 
@@ -51,3 +43,9 @@ RoboSpeaker/
 
 Mrs. Vijay Mourya
 M.Tech  AI | Python & AI Enthusiast
+
+## 📦 Installation
+
+1. Clone this repository:
+```bash
+git clone hhttps://github.com/Vijaymourya6464/Robo_Speak.git
